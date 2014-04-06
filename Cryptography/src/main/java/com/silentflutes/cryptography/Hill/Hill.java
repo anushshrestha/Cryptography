@@ -8,7 +8,7 @@ import java.io.BufferedWriter;
 /**
  * Created by sillentflutes on 4/1/14.
  */
-public class Hill extends Ciphers {
+public class  Hill extends Ciphers {
     @Override
     public String encrypt(String plainText) {
         return null;

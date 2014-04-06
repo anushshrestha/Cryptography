@@ -23,6 +23,7 @@ public class Caesar extends Ciphers implements View.OnClickListener {
     Button encrypt, decrypt;
     String s = "";
     int rotate;
+    int value;
 
 
     @Override
